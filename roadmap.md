@@ -1,0 +1,20 @@
+- [x] Match reference screens; rotating NASA Earth.
+- [x] Full-screen horizontal viewport on phones and tablets; landscape on PC (latest direction supersedes portrait layout).
+- [x] Phase 2: server-side NASA data layer with cache + DEMO DATA fallback; live feed on Home.
+- [ ] Rework small-screen text and controls for the rotated landscape frame; existing learning and flight screens still need verification.
+- [x] Phase 3: Science Lab (3 concepts × 7 steps), Dr. Ayesha (contextual), browser voice with controls, 6 languages
+- [ ] Translate mission names, NASA descriptions, route names, instrument labels and the remaining flight HUD; new screen controls have six-language translations.
+- [x] Phase 4: Mission Brief screen (verified target facts + live NASA image, 6 languages)
+- [x] Phase 5: live JPL Horizons Earth–target distance + radio delay on Route
+- [x] Phase 6: live rocket-equation Δv panel in Builder
+- [x] Phase 7: GO/NO-GO launch poll (incl. NASA DONKI space weather)
+- [ ] Phases 8–12: cockpit, Earth Control (EPIC), DONKI challenges, landing, rescue
+- [ ] Phases 13–17: autopsy, black box, what-if, World Saver, passport/career, QA
+- [x] Real NASA API key saved
+- [x] New separate mission selection, route and hangar screens with NASA mission photography and instrument controls.
+- [ ] Finish game-wide visual integration, make the hangar craft consistently centered on phones, and end-to-end QA across device sizes.
+- [x] New page-by-page setup flow: start → planet → mission objective → route choice → route preview → separate guided resource decisions → mission overview → three spacecraft designs → component customization → 1–100 readiness → launch check.
+- [ ] Carry the new visual language through launch, flight/challenges, landing and rescue with complete end-to-end testing.
+- [ ] Honor approved space-blue cinematic design direction; keep each decision separate in the shared game stage and add NASA-attributed imagery where available.
+- [x] Verify setup navigation on horizontal mobile sizes 390×844, 412×915, 360×800, 1080×1920, and desktop; preserve truthful performance/data labeling.
+- [ ] Verify every control and screen for overlap in the complete launch-to-rescue sequence.
